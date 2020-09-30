@@ -28,4 +28,4 @@ Look at the default variables and edit the Vhosts with your preferences.
 You might also want to override them via setting them in ```group_vars``` or ```host_vars```
 
 
-Don't forget to add include it as a role at your playbooks
+Don't forget to add include it as a role in your playbooks
